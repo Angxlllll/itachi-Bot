@@ -130,7 +130,7 @@ ${comandos.map(menu => menu.help.map(help =>
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363417252896376@newsletter',
-                newsletterName: '𝗨𝗽𝗱𝗮𝘁𝗲 𝗚𝗮𝗮𝗿𝗮 𝗨𝗹𝘁𝗿𝗮-𝗠𝗗 👑⚡',
+                newsletterName: '*CANA OFICIAL MITSURI👑⚡*',
                 serverMessageId: 100
               }
             }
