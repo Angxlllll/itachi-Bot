@@ -3,7 +3,6 @@ import "./config.js"
 import fs from "fs"
 import path from "path"
 import readline from "readline"
-import pino from "pino"
 import NodeCache from "node-cache"
 import { fileURLToPath } from "url"
 
