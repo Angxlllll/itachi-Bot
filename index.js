@@ -1,9 +1,6 @@
 import "./config.js"
 
 import fs from "fs"
-import path from "path"
-import readline from "readline"
-import NodeCache from "node-cache"
 import { fileURLToPath } from "url"
 
 import baileys from "@whiskeysockets/baileys"
