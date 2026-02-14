@@ -5,7 +5,7 @@ import ws from 'ws'
 import { generateWAMessageFromContent, prepareWAMessageMedia } from '@whiskeysockets/baileys'
 import fetch from 'node-fetch'
 
-const botname = global.botname || '🌪️ 𝙂𝘼𝘼𝙍𝘼-𝙐𝙇𝙏𝙍𝘼-𝙈𝘿 🌪️'
+const botname = global.botname || '🍓 MITSURI-MD🍓'
 const creador = 'https://xzys-ultra.vercel.app'
 const versionBot = '10.5.0' // cámbiala si tienes otra
 
@@ -107,7 +107,7 @@ ${comandos.map(menu => menu.help.map(help =>
     }
 
     menuText += `
-> 👑 Powered by leo xzzsy 🥷🏽
+> 👑 Powered by  GABXZ 
 `
 
     await m.react('⚡️')
@@ -130,7 +130,7 @@ ${comandos.map(menu => menu.help.map(help =>
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363417252896376@newsletter',
-                newsletterName: '*CANA OFICIAL MITSURI👑⚡*',
+                newsletterName: '*CANAL OFICIAL MITSURI👑⚡*',
                 serverMessageId: 100
               }
             }
