@@ -82,7 +82,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
     // Bloque inicial
     let menuText = `
-╭━━━〔 *⚡ MITSURI-MD ⚡* 〕━━━⬣
+╭━━━〔 ꩇׁׅ֪݊ ꪱׁׁׁׅׅׅtׁׅׅ꯱υׁׅꭈׁׅꪱׁׁׁׅׅׅ-ꩇׁׅ֪݊ ժׁׅ݊ 〕━━━⬣
 ┃ ❒ *Nombre*: *${botname}*
 ┃ ❒ *Creador*: *${creador}*
 ┃ ❒ *Estado*: *${modo}*
@@ -90,8 +90,9 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 ┃ ❒ *Premium*: *${totalPremium}*
 ┃ ❒ *Versión*: *${versionBot}*
 ╰━━━━━━━━━━━━━━━━━━━━━━⬣
-> Sempai uwu 💖 que tal acá están toda las categorías del menú *⚡ MITSURI-MD ⚡* diviértete 
-La bot todavía está en fase beta
+> sᥱᥒ⍴ᥲі մամ cօოօ ҽsԵαs,(^._.^)ﾉ☆
+sօվ ოíԵsմɾվ Եմ αsí́sԵҽղ ѵíɾԵմαl օղícհαղղ, ցɾɾ
+🅑🅞🅣 🅔🅝 🅕🅐🅢🅔 🅑🅔🅣🅐
 `
 
     // Recorremos categorías (sin huecos)
