@@ -7,7 +7,7 @@ let handler = async function (m, { conn, groupMetadata }) {
   let listaUsuarios = mencionados.map(jid => `┃ ⚡ @${jid.split('@')[0]}`).join('\n');
 
   const mensaje = [
-    '╭━━━〔 ოí́Եsմɾվ-Եαցαll 〕━━━⬣',
+    '╭━━━〔🎍 𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐓𝐀𝐆𝐀𝐋𝐋🎍 〕━━━⬣',
     '┃ *🔥 ¡Invocación completada! 🔥*',
     '┃ 📌 Todos los usuarios del chat han sido invocados:',
     listaUsuarios,
