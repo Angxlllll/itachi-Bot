@@ -91,7 +91,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 ┃ ❒ *Versión*: *${versionBot}*
 ╰━━━━━━━━━━━━━━━━━━━━━━⬣
 > sᥱᥒ⍴ᥲі մամ cօოօ ҽsԵαs,(^._.^)ﾉ☆
-sօվ ოíԵsմɾվ Եմ αsí́sԵҽղ ѵíɾԵմαl օղícհαղղ, ցɾɾ
+> sօվ ოíԵsմɾվ Եմ αsí́sԵҽղ ѵíɾԵմαl օղícհαղղ, ցɾɾ
 🅑🅞🅣 🅔🅝 🅕🅐🅢🅔 🅑🅔🅣🅐
 `
 
@@ -133,7 +133,8 @@ ${comandos.map(menu => menu.help.map(help =>
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363417252896376@newsletter',
-                newsletterName: '*CANAL OFICIAL MITSURI👑⚡*',
+                newsletterName: '𝙼𝙸𝚃𝚂𝚄𝚁𝙸
+𝙾𝙵𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻',
                 serverMessageId: 100
               }
             }
