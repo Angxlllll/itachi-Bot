@@ -14,7 +14,7 @@ let handler = async function (m, { conn, groupMetadata }) {
     '╰━━━━━━━━━━━━━━━━━━━━⬣'
   ].join('\n');
 
-  const imagenURL = 'https://files.catbox.moe/cnl455.jpg';
+  const imagenURL = 'https://files.catbox.moe/l62rt5.jpg';
 
   await conn.sendMessage(
     m.chat,
