@@ -44,9 +44,10 @@ let handler = async (m, { conn, text, usedPrefix }) => {
     }
 
     // ===== APIs para audio MP3 =====
-        const fuente
-           { api: 'ZenzzXD', endpoint: `https://api.zenzxz.my.id/downloader/ytmp3?url=${encodeURIComponent(url)}`, extractor: res => res.download_url },
+            const fuentes = [
+           { api: 'ZenzzXD', endpoint: `https://api-adonix.ultraplus.click/download/ytvideo?url=${encodeURIComponent(url)}&apikey=WilkerKeydukz9l6871(url)}`, extractor: res => res.download_url },
       : `https://api-adonix.ultraplus.click/download/ytvideo?url=${encodeURIComponent(url)}&apikey=WilkerKeydukz9l6871`
+]
 
     let audioUrl, apiUsada, exito = false
 
