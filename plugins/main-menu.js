@@ -82,7 +82,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
     // Bloque inicial
     let menuText = `
-╭━━━〔 ⚡️ *GAARA-ULTRA-MENU* ⚡️ 〕━━━⬣
+╭━━━〔 *⚡ MITSURI-MD ⚡* 〕━━━⬣
 ┃ ❒ *Nombre*: *${botname}*
 ┃ ❒ *Creador*: *${creador}*
 ┃ ❒ *Estado*: *${modo}*
@@ -90,6 +90,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 ┃ ❒ *Premium*: *${totalPremium}*
 ┃ ❒ *Versión*: *${versionBot}*
 ╰━━━━━━━━━━━━━━━━━━━━━━⬣
+> Sempai uwu 💖 que tal acá están toda las categorías del menú *⚡ MITSURI-MD ⚡* diviértete 
+La bot todavía está en fase beta
 `
 
     // Recorremos categorías (sin huecos)
